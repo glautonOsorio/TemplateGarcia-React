@@ -25,7 +25,7 @@ Certifique-se de ter o seguinte instalado:
 Clone este repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seuusuario/template-garcia-react.git
+git clone https://github.com/glautonOsorio/TemplateGarcia-React.git
 cd template-garcia-react
 npm install
 ```
